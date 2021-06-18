@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.eb0630c8eb8ac9d41de3ff4eb3ffbe52.js"
+  "/precache-manifest.5d8c0d94318d1e38a4a0b51fa3e6a221.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "rasteedi_vue"});
